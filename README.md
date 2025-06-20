@@ -4,7 +4,7 @@
 
 Hi! I’m Alex Qiu, a third-year student at UC Santa Barbara double majoring in Statistics & Data Science and Economics. I’m especially interested in the bridge between collecting meaningful data and using it to guide smarter business decisions—or simply to better understand how things work. Whether it's analyzing trends, running experiments, or building tools, I enjoy using data to make sense of the world around me. I'm always curious, always learning—whether that's through collaborating with classmates, picking up new technical skills, or just diving into a cool side project. I care a lot about doing work that has a real impact and helps people make smarter decisions.
 
-📁 [Check out my resume](./Alex Resume.pdf)  
+📁 [Check out my resume](./Alex%20Resume.pdf)  
 
 📫 alexanderqiu@ucsb.edu  or qiu.alex04@gmail.com
 
