@@ -8,7 +8,7 @@ Hi! I’m Alex Qiu, a third-year student at UC Santa Barbara double majoring in 
 
 📫 alexanderqiu@ucsb.edu  / qiu.alex04@gmail.com
 
-🌐 [[LinkedIn](https://www.linkedin.com/in/alex-qiu-7b2151237/)]
+🌐 [LinkedIn](https://www.linkedin.com/in/alex-qiu-7b2151237/)
 
 ---
 
