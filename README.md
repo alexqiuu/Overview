@@ -14,7 +14,8 @@ Hi! I’m Alex Qiu, a third-year student at UC Santa Barbara double majoring in 
 
 ## 💻 Tech Stack
 
-`Python` `R` `SQL` `Pandas` `NumPy` `Markdown` `Excel` `Git`
+`Python` `R` `SQL` `Pandas` `NumPy` `Markdown` `Excel` `Git` `Python` `PowerBI` `SAS` `Tableau`
+
 
 ---
 
@@ -27,9 +28,8 @@ Built a 20-minute psychological assessment platform using **LLMs with Retrieval-
 
 ### Paper Airplane Experiment — Full Factorial Design  
 Designed and ran a **$2^3$ full factorial experiment** to evaluate the effect of paperclip weight distribution on airplane flight distance. Conducted 24 trials, modeled results with linear regression + interaction terms in R, and verified statistical assumptions.  
-*Outcome:* Identified significant design impacts on aerodynamic performance (82% power)
-🔗 [📄 View the full report](./PaperAirplaneReport.pdf)
----
+*Outcome:* Identified significant design impacts on aerodynamic performance (82% power)  
+🔗 [View the full report](./Airplane_Factorial.pdf)
 
 ## 🔧 Project Repos Coming Soon  
 More projects (econ experiments, finance simulations, and data tools) will be uploaded soon. Stay tuned!
