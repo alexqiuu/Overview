@@ -25,6 +25,8 @@ Hi! I’m Alex Qiu, a third-year student at UC Santa Barbara double majoring in 
 Built a 20-minute psychological assessment platform using **LLMs with Retrieval-Augmented Generation (RAG)** to deliver real-time motivational trait feedback. Designed for career alignment and team optimization across education, HR, and coaching.  
 *Tech used:* Python, OpenAI API, scoring models, behavioral science
 🔗 [MQ Learning Website](https://mq.equalearning.net/)
+🔗 [MQ Learning Report](./MQ_Report.pdf)
+
 
 ### Paper Airplane Experiment — Full Factorial Design  
 Designed and ran a **$2^3$ full factorial experiment** to evaluate the effect of paperclip weight distribution on airplane flight distance. Conducted 24 trials, modeled results with linear regression + interaction terms in R, and verified statistical assumptions.  
